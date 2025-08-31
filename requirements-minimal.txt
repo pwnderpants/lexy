@@ -1,0 +1,5 @@
+# Minimal requirements - only what's needed to run the application
+SpeechRecognition==3.10.4
+numpy>=1.21.0
+vosk>=0.3.42
+pyaudio>=0.2.11
